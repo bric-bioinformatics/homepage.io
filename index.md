@@ -40,7 +40,7 @@ Nous mettons à disposition [un tableur](https://bricbordeaux.sharepoint.com/:x:
 
 ## Evénements
 
-**Save the date** : La cellule est en train d'organniser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **Mercredi 29 Mai** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café et un buffet/cocktail afin de nous permettre d'échanger.
+**Save the date** : La cellule est en train d'organiser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **Vendredi 11 Avril** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café afin de nous permettre d'échanger.
 
 Programme à venir ...
 
