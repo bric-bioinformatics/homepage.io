@@ -61,7 +61,9 @@ _Liens vers les supports_
 https://github.com/bric-bioinformatics/formation_R
 
 _Prochaine session_
+
 Quand : Les 11, 13 et 14 Mars 
+
 Où: Salle informatique 213 du bâtiment d'Odontologie, site Carreire.
 
 ### Initiation aux biostatistiques 
