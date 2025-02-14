@@ -41,19 +41,22 @@ Nous mettons à disposition [un tableur](https://bricbordeaux.sharepoint.com/:x:
 ## Formations
 ### Initiation à la programmation en R pour la manipulation de tableaux et la représentation graphique des données  
 _Les objectifs de cette formations sont:_
-1- Connaitre les notions de base de la programmation R
-2- Savoir lire du code R
-3- Savoir chercher des informations sur le web
-4- Savoir manipuler des tableaux avec dplyr
-5- Savoir représenter les données sous forme de graphique avec ggplot2 (et d'autres supers outils)
+- Connaitre les notions de base de la programmation R
+- Savoir lire du code R
+- Savoir chercher des informations sur le web
+- Savoir manipuler des tableaux avec dplyr
+- Savoir représenter les données sous forme de graphique avec ggplot2 (et d'autres supers outils)
 
 _Les pré-requis:_
+
 Il n'y a pas de pré-requis.
 
 _Le public:_
+
 Toute personne membre du BRIC (stagiaires, doctorant·e·s, post-doc, chercheurs·ses, technicien·ne·s etc) n'ayant aucune notion de programmation en R et souhaitant s'autonomiser sur l'analyse basique de données.
 
 _Au programme:_
+
 Analyse et visualisation de données d'expression des gènes et des caractéristiques cliniques de patient·e·s atteint·e·s de cancer du poumon.
 
 _Liens vers les supports_
@@ -62,9 +65,9 @@ https://github.com/bric-bioinformatics/formation_R
 
 _Prochaine session_
 
-Quand : Les 11, 13 et 14 Mars 
+**Quand**: Les 11, 13 et 14 Mars 
 
-Où: Salle informatique 213 du bâtiment d'Odontologie, site Carreire.
+**Où**: Salle informatique 213 du bâtiment d'Odontologie, site Carreire.
 
 ### Initiation aux biostatistiques 
 A venir ...
