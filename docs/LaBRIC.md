@@ -2,11 +2,11 @@
 
 ## Pourquoi le <img src="logo_LaBRIC.jpg" alt="LaBRIC" width="200"/> ?
 
-A l'initiative d'Elodie Darbo, Ingénieure de Recherche en bioinformatique au sein du BRIC, responsable de la cellule ODILE, cette collaboration se développe depuis 2023 dans le but de mutualiser les compétences en biologie, bioinformatique et informatique nécessaires aujourd'hui à l'élaboration de projets interdisciplinaires ambitieux dans le domaine de la santé.
+A l'initiative d'Elodie Darbo, Ingénieure de Recherche en bioinformatique au sein du BRIC, responsable de la cellule O·D·I·L, cette collaboration se développe depuis 2023 dans le but de mutualiser les compétences en biologie, bioinformatique et informatique nécessaires aujourd'hui à l'élaboration de projets interdisciplinaires ambitieux dans le domaine de la santé.
 
 ### BRIC
 
-Le BoRdeaux Institute of onCology ([BRIC](https://www.bricbordeaux.com)) développe une recherche de pointe dont les objectifs sont de comprendre les mécanismes sous-jacents aux maladies cancéreuses et identifier des caractéristiques moléculaires spécifiques aux tumeurs développées dans des groupes de patient·e·s. Pour cela, les différents projets mènent à la production de données massives provenant de diverses technologies de séquençage et d'imagerie. La cellule ODILE, de par ses missions, permet un accompagnement sur certains projets mais ne répondent pas à tous les besoins, notamment le développement de nouvelles méthodes pour l'intégration de données, la prise en charge de projets d'analyses approfondies, un apport exhaustif de compétences  (_e.g._ analyse d'images).
+Le BoRdeaux Institute of onCology ([BRIC](https://www.bricbordeaux.com)) développe une recherche de pointe dont les objectifs sont de comprendre les mécanismes sous-jacents aux maladies cancéreuses et identifier des caractéristiques moléculaires spécifiques aux tumeurs développées dans des groupes de patient·e·s. Pour cela, les différents projets mènent à la production de données massives provenant de diverses technologies de séquençage et d'imagerie. La cellule O·D·I·L, de par ses missions, permet un accompagnement sur certains projets mais ne répondent pas à tous les besoins, notamment le développement de nouvelles méthodes pour l'intégration de données, la prise en charge de projets d'analyses approfondies, un apport exhaustif de compétences  (_e.g._ analyse d'images).
 
 ### LaBRI
 
@@ -40,15 +40,15 @@ Demandes de finacement M2 LaBRIC: [Modèle](https://bricbordeaux.sharepoint.com/
 - 4 bourses pour le recrutement de master 2 ont été offertes par les unités (2 BRIC, 2 LaBRI), 3 ont été pourvues:
 
 **Évolution phylo(épi)génétique du locus PTEN** \
-Porteur BRIC : Thibaut Matis; Porteuse LaBRI: Raluca Uricaru (SeD); Porteuse LaBRIC: Elodie Darbo \
+Porteur BRIC : Thibaut Matis (T8); Porteuse LaBRI: Raluca Uricaru (SeD); Porteuse LaBRIC: Elodie Darbo \
 Stagiaire Master 2: Sabri-Nazim Mechkouri (Université de Montpellier)
 
 **Analyse d’images de microscopie, quantification de gouttelettes lipidiques dans des structures cellulaires en 3D** \
-Porteuse BRIC : Lucie Brisson; Porteuse LaBRI: Marie Beurton-Aimar (I&S) \
+Porteuse BRIC : Lucie Brisson (T1); Porteuse LaBRI: Marie Beurton-Aimar (I&S) \
 Stagiaire Master 2: Laurent Busson (Université de Bordeaux)
 
 **Combination of CMS classification and Proteomics for Precision Medicine  in Metastatic Colorectal Cancer** \
-Porteur LaBRI : Patricia Thebault (SeD); Porteur BRIC: Majid Katib \
+Porteur LaBRI : Patricia Thebault (SeD); Porteur BRIC: Majid Katib (T2) \
 Stagiaire Master 2: Theo Moser (Université de Bordeaux)
 
 
@@ -56,14 +56,39 @@ Stagiaire Master 2: Theo Moser (Université de Bordeaux)
 
 **HEMAMOX: Influence du vieillissement sur la différenciation des cellules Hématopoïétiques: des données single-cell aux Modèles formels eXplicatifs** \
 Recrutement de Déborah Boyenval, post-doctorante pour 12 mois.
-Porteuse BRIC: Catherine Sawai (Dpt SBM); porteur LaBRI: Loic Paulevé (Dpt SIN, M2F)
+Porteuse BRIC: Catherine Sawai (Dpt SBM, T11); porteur LaBRI: Loic Paulevé (Dpt SIN, M2F)
 
+### 2024-2025
 
+- 4 bourses pour le recrutement de master 2 ont été offertes par les unités (2 BRIC, 2 LaBRI), 3 ont été pourvues:
 
+**Quantification de droplets lipidiques dans des sphéorides de glioblastome** \
+Porteur LaBRI : Marie Beurton-Aimar (I&S); Porteur BRIC: Lucie Brisson (T1) \
+Stagiaire Master 2: Maroa Alani (Université de Bordeaux)
+
+**Optimisation de méthodes de machine learning pour le groupement clinique en protéomique** \
+Porteur LaBRI : Victoria Bourgeais (SeD); Porteur BRIC: Anne-Aurélie Raymond (T3) \
+Stagiaire Master 2: Patricia Mendez Ramirez
+
+**Prognostic des cancers du pancréas grâce à l'IA explicable**
+Porteur LaBRI : Jenny Benois-Pineau (I&S); Porteur BRIC: Sandrine Dabernat (T8) \
+Stagiaire Master 2: Abubakar Qahir
+
+- Bourse ministérielle fléchée de l'EDMI par le LaBRI:
+
+**Détection de signatures moléculaires pour la stratification des patients atteints de cancers digestifs.**
+Porteur LaBRI : Patricia Thébaut (SeD); Porteur BRIC: Marion Bouchcareilh (T8) & Elodie Darbo (T7,O·D·I·L) \
+Doctorante: Françoise Metuekam (EDMI)
+
+- Financement inter-département en réponse à l'Appel à projets de recherche interdisciplinaire et exploratoire (APP RIE).
+
+**HEMAMOX: Influence du vieillissement sur la différenciation des cellules Hématopoïétiques: des données single-cell aux Modèles formels eXplicatifs** \
+Recrutement de Thu Hà Trinh, doctorante (EDSVS) \
+Porteuse BRIC: Catherine Sawai (Dpt SBM, T11); porteur LaBRI: Loic Paulevé (Dpt SIN, M2F)
 
 ## Rencontres
 
-2024: A venir ... \
+2025-04-11: Seconde rencontre organisée dans l'amphi du BBS [Programme](https://codimd.math.cnrs.fr/s/pa_MfSQtA#) \
 2023-06-05: Première rencontre organisée dans l'amphi du LaBRI [Programme](Programme_LaBRIC_20230605.pdf)
 
 
