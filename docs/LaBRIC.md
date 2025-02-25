@@ -55,7 +55,7 @@ Stagiaire Master 2: Theo Moser (Université de Bordeaux)
 - Financement inter-département en réponse à l'Appel à projets de recherche interdisciplinaire et exploratoire (APP RIE).
 
 **HEMAMOX: Influence du vieillissement sur la différenciation des cellules Hématopoïétiques: des données single-cell aux Modèles formels eXplicatifs** \
-Recrutement de Déborah Boyenval, post-doctorante pour 12 mois.
+Recrutement de Déborah Boyenval, post-doctorante pour 12 mois. \
 Porteuse BRIC: Catherine Sawai (Dpt SBM, T11); porteur LaBRI: Loic Paulevé (Dpt SIN, M2F)
 
 ### 2024-2025
@@ -70,14 +70,14 @@ Stagiaire Master 2: Maroa Alani (Université de Bordeaux)
 Porteur LaBRI : Victoria Bourgeais (SeD); Porteur BRIC: Anne-Aurélie Raymond (T3) \
 Stagiaire Master 2: Patricia Mendez Ramirez
 
-**Prognostic des cancers du pancréas grâce à l'IA explicable**
+**Prognostic des cancers du pancréas grâce à l'IA explicable** \
 Porteur LaBRI : Jenny Benois-Pineau (I&S); Porteur BRIC: Sandrine Dabernat (T8) \
 Stagiaire Master 2: Abubakar Qahir
 
 - Bourse ministérielle fléchée de l'EDMI par le LaBRI:
 
-**Détection de signatures moléculaires pour la stratification des patients atteints de cancers digestifs.**
-Porteur LaBRI : Patricia Thébaut (SeD); Porteur BRIC: Marion Bouchcareilh (T8) & Elodie Darbo (T7,O·D·I·L) \
+**Détection de signatures moléculaires pour la stratification des patients atteints de cancers digestifs.** \
+Porteur LaBRI : Patricia Thébaut (SeD); Porteur BRIC: Marion Bouchcareilh (T8) & Elodie Darbo (T7, O·D·I·L) \
 Doctorante: Françoise Metuekam (EDMI)
 
 - Financement inter-département en réponse à l'Appel à projets de recherche interdisciplinaire et exploratoire (APP RIE).
