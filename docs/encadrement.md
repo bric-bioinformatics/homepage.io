@@ -2,15 +2,33 @@
 
 Nous avons mis en place une réunion bimensuelle permettant à tous les stagiaires M2 (BRIC et LaBRIC) de se rencontrer régulièrement, de parler de façon informelle de leur projet, de leurs avancées ou bloquages et d'échanger sur la bioinformatique.
 
+## 2024-2025
+
+**Optimisation des méthodes bio-informatiques d’attribution de groupe clinique par profilage protéomique.** \
+Co-encadrantes: Victoria Bourgeais (LaBRI, BKB); Anne-Aurélie Raymond (Equipe 3) \
+Financement: propre \
+Stagiaire: Patricia Méndez Ramírez 
+
+**Analyse d’images de microscopie, quantification de fluorescence dans des structures cellulaires en 3D.** \
+Co-encadrantes: Lucie Brisson (Equipe 1), Marie Beurton-Aimar (LaBRI, IS) \
+Financement: LaBRIC \
+Stagiaire: Maroa Alani
+
+**Construction de modèles individuels IA pour le pronostique dans le traitement du cancer de pancréas.** \
+Co-encadrant·e·s: Sandrine Dabernat (Equipe 8), Jenny Benois-Pineau (LaBRI, IS) \
+Financement: LaBRIC \
+Stagiaire: Abubakar Qahir
+
+
 ## 2023-2024
 
 **Etude de la régulation transcriptionnelle de la voie de synthèse des pyrimidines dans les cellules de la peau en réponse à l'exposition aux UV.** \
-Co-encadrant·e·s: Hamid Rezvani (Equipe 5), Elodie Darbo (Equipe 7, ODILE) \
+Co-encadrant·e·s: Hamid Rezvani (Equipe 5), Elodie Darbo (Equipe 7, ODIL) \
 Financement: BRIC inter-équipes \
 Stagiaire: Andreia Campos Ferreira (Université Aix-Marseille)
 
 **Etude du double rôle de la ß-caténine dans les cancers du foie.** \
-Co-encadrantes: Violaine Moreau (Equipe 3), Elodie Darbo (Equipe 7, ODILE) \
+Co-encadrantes: Violaine Moreau (Equipe 3), Elodie Darbo (Equipe 7, ODIL) \
 Financement: AAP M2 NEWMOON \
 Stagiaire: Zeinab Rammal (Université de Lille)
 
@@ -20,7 +38,7 @@ Financement: Interne équipe 3 \
 Stagiaire: Pierre Loic Gouttebel (Université Aix-Marseille)
 
 **Évolution phylo(épi)génétique du locus PTEN** \
-Co-encadrant·e·s: Raluca Uricaru (LaBRI, BKB); Elodie Darbo (Equipe 7, ODILE), Thibaut Matis (Equipe 8) \
+Co-encadrant·e·s: Raluca Uricaru (LaBRI, BKB); Elodie Darbo (Equipe 7, ODIL), Thibaut Matis (Equipe 8) \
 Financement: LaBRIC \
 Stagiaire: Sabri-Nazim Mechkouri (Université de Montpellier)
 
