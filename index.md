@@ -80,9 +80,7 @@ A venir ...
 
 ## Evénements
 
-**Save the date** : La cellule est en train d'organiser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **Vendredi 11 Avril** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café afin de nous permettre d'échanger.
-
-Programme : https://codimd.math.cnrs.fr/HqZ_VYeQSlO8Epv8bXzVaA#
+**Save the date** : La cellule est en train d'organiser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **Vendredi 11 Avril 2025** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café afin de nous permettre d'échanger ([Programme](https://codimd.math.cnrs.fr/HqZ_VYeQSlO8Epv8bXzVaA#)).
 
 ## Nous joindre
 
