@@ -63,9 +63,15 @@ _Liens vers les supports_
 
 https://github.com/bric-bioinformatics/formation_R
 
+_Sessions passées_
+
+- 12, 14 et 15 Novembre 2024
+- 11, 13 et 14 Mars 2025
+- 24, 25 et 26 Novembre 2025 
+
 _Prochaine session_
 
-**Quand**: Les 11, 13 et 14 Mars 
+**Quand**: Mars 2026 (dates à venir)
 
 **Où**: Salle informatique 213 du bâtiment d'Odontologie, site Carreire.
 
@@ -76,7 +82,7 @@ A venir ...
 
 **Save the date** : La cellule est en train d'organiser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **Vendredi 11 Avril** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café afin de nous permettre d'échanger.
 
-Programme à venir ...
+Programme : https://codimd.math.cnrs.fr/HqZ_VYeQSlO8Epv8bXzVaA#
 
 ## Nous joindre
 
