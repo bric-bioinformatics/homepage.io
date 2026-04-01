@@ -10,24 +10,32 @@ _Comité exécutif_
 -	Responsable Scientifique : Elodie Darbo
 -	Cyril Dourthe
 
-_Comité Utilisateurs·trices expert·e·s_
--	Anne-Aurélie Raymond
-- Anne Persoz
--	Samuel Amintas
--	Audrey Gros
--	Jessica Massière
+_Comité de Pilotage_
+-	Elodie Darbo
+- Cyril Dourthe
+-	Stéphanie Verbeke (T9)
+-	Hala Al Adhami (T7)
+-	François Moisan (T5.2)
 
 [Organigramme et logigramme](docs/presentation_gramme.md)
 
 ## Nos missions
 
--	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doc et par l'organisation de rencontres LaBRIC entre les deux unités. Voir: [Qu'est-ce que le LaBRIC ?](docs/LaBRIC.md)
--	Encadrement de stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE). Voir [Encadrements passés et en cours](docs/encadrement.md)
--	Accompagnement pour la réponse à des appels à projets
--	Développement d’outils interfacés et mise à disposition des chercheurs pour l’exploration et la visualisation de résultats
--	Mise en place progressive d’une base de données interne au BRIC
--	Formation à l’utilisation d’outils
--	Faire remonter les besoins des équipes pour aider à l’amélioration des outils (ex : ajout de fonctionnalités) ou pour la création de nouveaux outils grâce à des réunions régulières entre utilisteurs et concepteurs.
+Nos missions s'articulent autour de quatre axes principaux :
+
+1. **La formation**, visant à favoriser l'autonomie et la montée en compétence des membres de l'unité.
+2. **L'accompagnement**
+  -	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doctotant·e ainsi que par l'organisation de rencontres LaBRIC entre les deux unités. Voir: [Qu'est-ce que le LaBRIC ?](docs/LaBRIC.md)
+  -	Encadrer les stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE). Voir [Encadrements passés et en cours](docs/encadrement.md)
+  -	Accompagner la réponse aux appels à projets
+3. **La réalisation de projets**
+  - Réaliser des analyses s'appuyant sur des pipelines déjà implémentés dans la cellule.
+  - Effectuer des analyses ponctuelles sur des questions ciblées.
+  - Assurer des analyses avancées, de la donnée brute jusqu'à la publication. La priorisation des projets est assurée par le comité de pilotage.
+4. **Le développement méthodologique transversal**
+  - Définir de nouvelles méthodes à partir des besoins recueillis au sein de l'unité.
+  - Améliorer et actualiser les compétences au sein de la cellule
+  - Développer des méthodes indépendamment des projets spécifiques 
 
 ## Bac à sable
 
@@ -68,10 +76,11 @@ _Sessions passées_
 - 12, 14 et 15 Novembre 2024
 - 11, 13 et 14 Mars 2025
 - 24, 25 et 26 Novembre 2025 
+- 17, 18 et 20 Mars 2026 
 
 _Prochaine session_
 
-**Quand**: Mars 2026 (dates à venir)
+**Quand**: Novembre 2026 (dates à venir)
 
 **Où**: Salle informatique 213 du bâtiment d'Odontologie, site Carreire.
 
