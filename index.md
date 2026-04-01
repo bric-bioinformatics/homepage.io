@@ -23,6 +23,8 @@ _Comité de Pilotage_
 
 Nos missions s'articulent autour de quatre axes principaux :
 
+<p style="text-align: center;"><img src="docs/ODIL_AG_BRIC_2026._missions.png" alt="Missions O·D·I·L (2026)" width="600"/></p>
+
 1. **La formation**, visant à favoriser l'autonomie et la montée en compétence des membres de l'unité.
 2. **L'accompagnement**
   -	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doctotant·e ainsi que par l'organisation de rencontres LaBRIC entre les deux unités. Voir: [Qu'est-ce que le LaBRIC ?](docs/LaBRIC.md)
